@@ -9,6 +9,9 @@ The purpose of this project was to sample and explore distinct groups of patient
 After applying dimensionality reduction to the patient dataset using principal component analysis (PCA) and t-SNE, the reduced data was used to fit a K-means clustering model to classify groups within the sample population. The resulting visualisation suggests that patients and their prevalent features can be classified into three distinct clusters.
 
 
+[![Myopia clusters](https://github.com/rybread01/unsupervised-machine-learning/blob/main/Resources/myopia-clusters.png?raw=true)](https://github.com/rybread01/unsupervised-machine-learning/tree/main/Resources)
+
+
 
 ### References:
 Holden, Brien A., et al. “Global Prevalence of Myopia and High Myopia and Temporal Trends from 2000 through 2050.” Ophthalmology, no. 5, Elsevier BV, May 2016, pp. 1036–42. Crossref, doi:10.1016/j.ophtha.2016.01.006.
